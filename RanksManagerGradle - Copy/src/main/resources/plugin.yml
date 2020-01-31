@@ -1,0 +1,3 @@
+name: RanksManager
+version: @version@
+main: com.gmail.zorioux.ranksmanager.RanksManager
